@@ -15,10 +15,10 @@ public class Cat {
     }
 
     public void publicAction(){
-        System.out.println("cat just did public action");
+        System.out.println("cat just did some public action");
     }
     private void privateAction(){
-        System.out.println("cat just did private action");
+        System.out.println("cat just did some private action");
     }
 
 }
